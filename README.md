@@ -4,5 +4,5 @@
 ## Скачать
 Билды:
 - Версия :
-  - Скачать для Windows
-  - Скачать для Android
+  - Скачать для [Windows](https://github.com/romanin-rf/RemainHumanBuilds/releases/download/v0.1-alpha/RemainHuman-0.1-alpha-windows.zip)
+  - Скачать для [Android](https://github.com/romanin-rf/RemainHumanBuilds/releases/download/v0.1-alpha/RemainHuman-0.1-alpha-android.apk)
